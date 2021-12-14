@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "198349727577",
+    "project_id": "urevent-app-e55d5",
+    "storage_bucket": "urevent-app-e55d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198349727577:android:c5c2eeb97c334fdb8c0e48",
+        "android_client_info": {
+          "package_name": "com.example.urevent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198349727577-4urcv7stakt2t6eet8rgcmhf1d8ar50c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJgH3_AUYT1cY4OZ8VQ5YeHOaWz6EJJHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198349727577-4urcv7stakt2t6eet8rgcmhf1d8ar50c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">UREVENT</string>
+
+    <string-array name="list_webinar">
+        <item>GRAVITATION 2021</item>
+        <item>SHARING DISCUSSION</item>
+        <item>WEBINAR NASIONAL</item>
+        <item>TALKSHOW SUMPAH PEMUDA</item>
+        <item>WEBINAR INTERNASIONAL</item>
+        <item>UNPAD INTERNATIONAL WEBINAR</item>
+        <item>QUARTER LIFE CRISIS</item>
+    </string-array>
+
+    <string-array name="deskripsi_webinar">
+        <item>17 Oktober - 4 November 2021</item>
+        <item>Until 4th December 2021</item>
+        <item>Until 20th November 2021</item>
+        <item>Until 20th November 2021</item>
+        <item>Until 13th December 2021</item>
+        <item>Until 26th November 2021</item>
+        <item>Until 15th December 2021</item>
+    </string-array>
+
+    <string-array name="list_volunteer">
+        <item>#TetapBertahan</item>
+        <item>FD X BEAUTY</item>
+        <item>GIRLS UNITE</item>
+        <item>BUJANG FOUNDATION</item>
+        <item>OMB MARKETING COMMUNICATION</item>
+        <item>SOCIAL CONNECT</item>
+        <item>PODCAST GROW UP TOGETHER</item>
+    </string-array>
+
+    <string-array name="deskripsi_volunteer">
+        <item>17 Oktober - 4 November 2021</item>
+        <item>Until 4th December 2021</item>
+        <item>Until 20th November 2021</item>
+        <item>Until 20th November 2021</item>
+        <item>Until 13th December 2021</item>
+        <item>Until 26th November 2021</item>
+        <item>Until 15th December 2021</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
